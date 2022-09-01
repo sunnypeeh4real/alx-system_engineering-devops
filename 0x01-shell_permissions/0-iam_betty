@@ -1,0 +1,5 @@
+
+echo '#!/bin/bash' > 0-iam_betty
+echo 'script that switches the current user to the user betty' > README.md
+su bett
+y
